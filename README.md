@@ -1,1 +1,1 @@
-# KCHR
+# coding-project-template
